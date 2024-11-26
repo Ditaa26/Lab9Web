@@ -358,7 +358,6 @@ require('tugas_footer.php');
 ![image](https://github.com/user-attachments/assets/f0ee6b05-0d0e-47a5-8fdc-5d003077d096) 
 ![image](https://github.com/user-attachments/assets/32cfd12e-022d-41f5-9dd9-4bda9f9e401a) 
 ![image](https://github.com/user-attachments/assets/27c1bd37-a8f4-4513-bbbd-76bf3942880d) 
-![image](https://github.com/user-attachments/assets/11360772-7cc1-4c65-93a8-7971fb27063b) 
 Kode ini memungkinkan untuk mengambil data barang berdasarkan ID yang diberikan melalui URL.  
 Menampilkan form untuk mengubah data barang (seperti nama, harga beli, harga jual, dan stok).  
 Setelah form di-submit, data yang diubah akan disimpan kembali ke database menggunakan query ``UPDATE``.  
